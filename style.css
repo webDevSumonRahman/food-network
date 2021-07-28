@@ -13,6 +13,9 @@ h2 {
 h3 {
   font-size: 30px;
 }
+h4 {
+}
+
 p {
   font-size: 20px;
   color: dimgray;
@@ -87,8 +90,29 @@ p {
   border-radius: 10px;
   margin-bottom: 100px;
 }
-/* .subscrib {
-  margin-left: 10%;
-  margin-right: 6%;
+footer {
+  text-align: center;
   padding: 2%;
-} */
+  background-color: black;
+}
+li {
+  list-style-type: none;
+  margin: 25px;
+  font-weight: 700;
+}
+a {
+  text-decoration: none;
+
+  color: black;
+}
+ul {
+  display: flex;
+}
+nav {
+  width: 100vw;
+}
+.sign-in {
+  display: flex;
+  margin-top: 20px;
+  margin-right: 150px;
+}
