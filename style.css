@@ -37,7 +37,7 @@ p {
   background-repeat: no-repeat;
   background-size: 100%;
 }
-.half-width .profile-img {
+.about-me img {
   width: 50%;
   margin-top: 50px;
   margin-left: 100px;
@@ -79,13 +79,16 @@ p {
 .recipi-dital img {
   width: 100%;
 }
-.subscribers {
-  width: 95%;
-  padding: 0;
-  border-radius: 10px;
-}
 .subscrib {
+  width: 90%;
   text-align: center;
-  margin-left: 10%;
-  padding: 3%;
+  background-color: orange;
+  margin-left: 3%;
+  border-radius: 10px;
+  margin-bottom: 100px;
 }
+/* .subscrib {
+  margin-left: 10%;
+  margin-right: 6%;
+  padding: 2%;
+} */
