@@ -43,7 +43,7 @@ p {
   margin-left: 100px;
 }
 .about-me-info {
-  margin-top: 150px;
+  margin-top: 80px;
   padding-right: 50px;
 }
 
@@ -78,4 +78,14 @@ p {
 }
 .recipi-dital img {
   width: 100%;
+}
+.subscribers {
+  width: 95%;
+  padding: 0;
+  border-radius: 10px;
+}
+.subscrib {
+  text-align: center;
+  margin-left: 10%;
+  padding: 3%;
 }
