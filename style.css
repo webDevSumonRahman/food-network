@@ -11,10 +11,11 @@ h2 {
   font-size: 40px;
 }
 h3 {
-  color: rgb(115, 115, 115);
+  font-size: 30px;
 }
 p {
   font-size: 20px;
+  color: dimgray;
 }
 .flexible-container {
   display: flex;
@@ -58,10 +59,23 @@ p {
   color: orange;
 }
 .recipies-heading {
+  display: inline-block;
+  margin-left: 25%;
   text-align: center;
+  margin-bottom: 5%;
 }
 .recipies-heading p {
-  margin-left: 25%;
   width: 706px;
-  text-align: justify;
+  text-align: center;
+}
+.recipi-dital {
+  width: 100%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2%;
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 15px;
+}
+.recipi-dital img {
+  width: 100%;
 }
