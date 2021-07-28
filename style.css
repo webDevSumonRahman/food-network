@@ -16,9 +16,8 @@ h3 {
 p {
   font-size: 20px;
 }
-section {
+.flexible-container {
   display: flex;
-
   margin-bottom: 100px;
 }
 .half-width {
@@ -57,4 +56,12 @@ section {
 }
 .orange-highlighter {
   color: orange;
+}
+.recipies-heading {
+  text-align: center;
+}
+.recipies-heading p {
+  margin-left: 25%;
+  width: 706px;
+  text-align: justify;
 }
