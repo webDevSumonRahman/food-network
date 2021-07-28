@@ -13,8 +13,6 @@ h2 {
 h3 {
   font-size: 30px;
 }
-h4 {
-}
 
 p {
   font-size: 20px;
@@ -36,7 +34,6 @@ p {
 }
 .about-me {
   background-image: url(images/shapes/7.png);
-
   background-repeat: no-repeat;
   background-size: 100%;
 }
